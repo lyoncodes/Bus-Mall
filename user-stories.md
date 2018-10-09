@@ -26,4 +26,4 @@
 3)
     As a Focus Group Member, I want the module to be very easy, so that I don't have to work too hard on thinking about anything other than the products. 
 4)
-    As a Focus Group Member, I want instructions for usage to be equitable and encompassing of diversity. I don't want to see elevated language or lofty terms--so that I don't feel like the module is aimed at someone else. 
+    As a Focus Group Member, I want instructions for usage to be equitable and encompassing of diversity. I don't want to see elevated language or lofty terms--so that I don't feel like the module is aimed at someone else. If the focus group feels that way, they are way more likely to just 'click-through'. 
